@@ -2,7 +2,10 @@
 
 ![](https://resizing.flixster.com/lHv7mnv-0KmEUzwfNrAtwUzMm_k=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8681514_b_h9_aa.jpg)
 
-Bu veri kümesi Kaggle'dan alınmıştır. Bağlantıdan ulaşabilirsiniz. [https://www.kaggle.com/datasets/iamsouravbanerjee/game-of-thrones-dataset]
+Bu veri kümesi Kaggle'dan alınmıştır. Veri kümesine [buradan](https://www.kaggle.com/datasets/iamsouravbanerjee/game-of-thrones-dataset) ulaşabilirsiniz. Veri analizinde $${\color{ MS SQL Server}Light \space Green}$$ kullanılmıştır. 
+Bu analizde çeşitli sorgularla verinin daha iyi anlaşılması amaçlanmıştır. Aşağıda da veri setindeki kolonlara dair bilgiler verilmiştir.
+
+## Veri Kümesi
 
 * Season - No. of Seasons
 _Sezon - Toplam Sezon Sayısı_
